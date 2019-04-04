@@ -1,0 +1,24 @@
+<resources>
+
+    <string name="app_name">MovieReview</string>
+
+    <!-- These two strings will be used to set user's choice on activity_main.xml -->
+    <string name="popular_movie">Popular</string>
+    <string name="most_voted">Most Voted</string>
+    <!-- Set another string to view favourite movies -->
+    <string name="my_favourites">Favourite</string>
+
+    <!-- Will be used in activity_main.xml  -->
+    <string name="am_error_msg">No internet connection available...</string>
+
+    <!-- These strings will be used in activity_detail.xml file -->
+    <string name="da_movie_title">Movie Title</string>
+    <string name="da_release_date">12-25-2017</string>
+    <string name="da_user_rating">7.8</string>
+    <string name="da_movie_synopsis">This is movie synopsis.......</string>
+
+    <!-- Text will be used to display in button -->
+    <string name="da_button_text">Mark as favourite</string>
+
+
+</resources>
